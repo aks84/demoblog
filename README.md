@@ -1,26 +1,6 @@
-# README
+# Rails Action Text Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is based on this tutoril [Rails Action Text Demo ](https://tubemint.com/ruby-on-rails/)
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# demoblog
-# rails-actiontext
+![rails action text demo](public/rails-action-text-demo.png)
